@@ -3,24 +3,7 @@
 
 The final project will be due on Sunday, December 4 at 9:00 PM 11:59 PM. You will submit your results via Canvas.
 
-
-The Groups
-
-You will do the work in groups of four, except where necessary groups may have five students.
-
-The process for forming groups will be as follows: You will be allowed to pair up with one other student (from your same campus). I will create the final groups by joining up two of these pairs. Both members of the pair need to agree to be paired up. 
-
-If you do not want to pair up with another student, you do not need to. In this case I will just assign you to a group myself.
-
-You will create these pairs by going to https://canvas.cmu.edu/courses/31966/groups#tab-14162
-You and your pairmate need to join the same “group,” making sure that you choose one appropriately labeled “NYC” or “PGH.” You must complete the pairing by Tuesday, November 15 at 5:00 PM. If you have not done it by then, you will not be allowed to join a pair. Remember that both members of the pair must take action on Canvas for this to work; it is not sufficient for one group member to express that they want to be paired with someone.
-
-Important: If you say/email something to me such as “Can my pair be combined with X and Y to form the group?” you will guarantee that your request will not be granted, because I will want to ensure that there is no appearance of such requests being granted.
-
-The final group assignments will be announced on Wednesday, November 16.
-
-
-The Work
+**The Work**
 
 This course includes a discussion of a range of methods:
 
@@ -50,7 +33,7 @@ There should not be technical results presented… no tables of regression coeff
 
 Your submission should consist of two parts: The first is a pdf document that provides your evidence in support of each position. There should be at most two pages of text and figures for each response. (Use at least 11-point font.) The second part is a Jupyter notebook which performs the underlying analyses. This can be less formal and more technical, but it should be clear and complete. We should be able to run the notebook and reproduce your results.
 
-Assessment
+**Assessment**
 
 For each response you provide, you will be graded on these elements:
 - Is the choice of method appropriate to addressing the question? (4 points)
@@ -63,14 +46,14 @@ A final component to the assessment will be an in-class portion on Monday, Decem
 Hence, the entire project will consist of 100 points.
 
 
-Other
+**Other**
 
 You are not allowed to interact or collaborate with students outside of your group on the work.
 
 All group members are expected to contribute roughly equally to the work. All group members are responsible for all work that is submitted by their group.
 
 
-Research Questions
+**Research Questions**
 
 These are the research questions that you can address for the final project.
 
@@ -91,5 +74,3 @@ These are the research questions that you can address for the final project.
 8. To what extent does investment fund type influence the properties of the offering such as revenue range, total offering amount?
 
 9. What is the relationship between the minimum investment accepted and the total amount sold, and how does it vary with other variables in the data set?
-
-
