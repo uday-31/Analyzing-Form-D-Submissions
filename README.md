@@ -2,7 +2,7 @@
 
 Used nonlinear dimension reduction, clustering, nonparametric smoothing, and natural language processing to analyze Form D submissions from SEC's website.
 
-This project was done for the requirements of the class 46-923 Financial Data Science II, along with my group members Dhruv Baid, Guolun Li, Shangyu Li, and Yi Xin Xiang
+This project was done for the requirements of the class 46-923 Financial Data Science II, along with my group members Dhruv Baid, Guolun Li, Shangyu Li, and Yi Xin Xiang.
 
 # Introduction
 
